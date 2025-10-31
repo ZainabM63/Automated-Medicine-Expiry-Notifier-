@@ -1,9 +1,6 @@
+## 👩‍💻 Developer
 
-## 👩‍💻 Author
-
-**Zainab Mughal**
-📧 [zainabmughal33@gmail.com](mailto:zainabmughal33@gmail.com)
-
+**Author:** Zainab Mughal
 ---
 
 > *“Ensuring medicine safety through automation — one expiry check at a time.”*
