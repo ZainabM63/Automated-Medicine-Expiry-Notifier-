@@ -27,7 +27,7 @@ It ensures your inventory remains safe and compliant by performing **scheduled c
 - **Oracle 12c Database**
 
 ---
-
+```
 ### **2. Database Configuration (⚠️ Important)**
 
 You must configure your **Oracle database username, password, and connection string** in  
@@ -43,7 +43,7 @@ spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.Oracle12cDialect
 ---
-
+```
 ### **3. Database Schema (SQL Setup)**
 
 Run the following SQL commands inside **Oracle SQL Developer** or your Oracle terminal to create the schema and populate sample data.
