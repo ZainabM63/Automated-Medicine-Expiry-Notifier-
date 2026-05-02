@@ -42,11 +42,6 @@ spring.datasource.driver-class-name=oracle.jdbc.OracleDriver
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.Oracle12cDialect
-````
-
-> ⚠️ **Be careful** when entering your Oracle credentials — especially the `system` password.
-> Never share it publicly or push it to GitHub.
-
 ---
 
 ### **3. Database Schema (SQL Setup)**
